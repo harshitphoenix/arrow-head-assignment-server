@@ -1,0 +1,288 @@
+{
+    "object": "list",
+    "results": [
+      {
+        "object": "page",
+        "id": "1b2ab6e7-c7e8-4d5b-8e66-f9585c49a01a",
+        "created_time": "2023-04-21T02:48:00.000Z",
+        "last_edited_time": "2023-04-21T02:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "fe490b9a-1dfb-4499-bf40-bc8fcc5e1964"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "fe490b9a-1dfb-4499-bf40-bc8fcc5e1964"
+        },
+        "cover": null,
+        "icon": null,
+        "parent": {
+          "type": "database_id",
+          "database_id": "984733ba-a4e6-4d57-8db2-1a2198d970bb"
+        },
+        "archived": false,
+        "properties": {
+          "Watched": {
+            "id": "JI%7Db",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "Comment": {
+            "id": "Wh%3Fx",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Amazing Scifi thriller movie",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Amazing Scifi thriller movie",
+                "href": null
+              }
+            ]
+          },
+          "Ratings": {
+            "id": "c%7Coo",
+            "type": "select",
+            "select": {
+              "id": "3aacb3a1-c98f-4543-bc57-294a1dcb5880",
+              "name": "3",
+              "color": "yellow"
+            }
+          },
+          "Date_Watched": {
+            "id": "sy%60W",
+            "type": "date",
+            "date": {
+              "start": "2022-08-15",
+              "end": null,
+              "time_zone": null
+            }
+          },
+          "Title": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Transformer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Transformer",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Transformer-1b2ab6e7c7e84d5b8e66f9585c49a01a"
+      },
+      {
+        "object": "page",
+        "id": "82b4b844-bfd0-4468-abde-9fc6b476839c",
+        "created_time": "2023-04-20T09:17:00.000Z",
+        "last_edited_time": "2023-04-20T09:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "6fa77d21-83f3-4d0a-a3c4-c5daf503fd04"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "6fa77d21-83f3-4d0a-a3c4-c5daf503fd04"
+        },
+        "cover": null,
+        "icon": null,
+        "parent": {
+          "type": "database_id",
+          "database_id": "984733ba-a4e6-4d57-8db2-1a2198d970bb"
+        },
+        "archived": false,
+        "properties": {
+          "Watched": {
+            "id": "JI%7Db",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "Comment": {
+            "id": "Wh%3Fx",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Scifi but not exciting as Avengers",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Scifi but not exciting as Avengers",
+                "href": null
+              }
+            ]
+          },
+          "Ratings": {
+            "id": "c%7Coo",
+            "type": "select",
+            "select": {
+              "id": "3aacb3a1-c98f-4543-bc57-294a1dcb5880",
+              "name": "3",
+              "color": "yellow"
+            }
+          },
+          "Date_Watched": {
+            "id": "sy%60W",
+            "type": "date",
+            "date": {
+              "start": "2023-04-18",
+              "end": null,
+              "time_zone": null
+            }
+          },
+          "Title": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Antman",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Antman",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Antman-82b4b844bfd04468abde9fc6b476839c"
+      },
+      {
+        "object": "page",
+        "id": "e504b23c-5046-4e2c-8468-4b595478af86",
+        "created_time": "2023-04-20T09:14:00.000Z",
+        "last_edited_time": "2023-04-20T09:17:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "6fa77d21-83f3-4d0a-a3c4-c5daf503fd04"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "6fa77d21-83f3-4d0a-a3c4-c5daf503fd04"
+        },
+        "cover": null,
+        "icon": null,
+        "parent": {
+          "type": "database_id",
+          "database_id": "984733ba-a4e6-4d57-8db2-1a2198d970bb"
+        },
+        "archived": false,
+        "properties": {
+          "Watched": {
+            "id": "JI%7Db",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "Comment": {
+            "id": "Wh%3Fx",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Nice and Fun movie for kids",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Nice and Fun movie for kids",
+                "href": null
+              }
+            ]
+          },
+          "Ratings": {
+            "id": "c%7Coo",
+            "type": "select",
+            "select": {
+              "id": "59d83284-76fc-498f-814d-4aa929195409",
+              "name": "4",
+              "color": "red"
+            }
+          },
+          "Date_Watched": {
+            "id": "sy%60W",
+            "type": "date",
+            "date": {
+              "start": "2023-04-11",
+              "end": null,
+              "time_zone": null
+            }
+          },
+          "Title": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "RRR",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "RRR",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/RRR-e504b23c50464e2c84684b595478af86"
+      }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page",
+    "page": {}
+  }
